@@ -1,0 +1,1 @@
+# Expense class with validation
